@@ -69,7 +69,7 @@ body {
 }
 
 .btn:hover {
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
   color: #017cff;
 }
 
